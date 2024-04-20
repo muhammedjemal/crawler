@@ -1,6 +1,5 @@
-# Web Scraping Group Assignment
-## This project is a web scraping assignment for a group of students working on a crawler tool. Below are the details and instructions for setting up and using the project.
-
+# Crawler | Web Scraping | Browser Automation
+Below are the details and instructions for setting up and using the project.
 
 # Objective
 
@@ -36,7 +35,7 @@ tsconfig.json: TypeScript configuration file.
 1. Clone the project repository to your local machine. (if you are accessing this from github)
 2. Navigate to the project directory in your terminal.
 ```shell
-cd path/to/crawler
+cd /crawler
 
 ```
 
