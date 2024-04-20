@@ -24,11 +24,17 @@ The script performs the following tasks:
 
 # Project Structure
 crawler/: Project folder.
+
 dist/ : Contains the compiled JavaScript file (scrap.js) after compilation.
+
 package.json: Project metadata and dependencies.
+
 posts.txt: Text file to store scraped data.
+
 README.md: Documentation file (this file).
+
 scrap.tsx: TypeScript file for the web scraping logic.
+
 tsconfig.json: TypeScript configuration file.
 
 # Installation
