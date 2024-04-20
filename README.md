@@ -1,6 +1,5 @@
-# Web Scraping Group Assignment
-## This project is a web scraping assignment for a group of students working on a crawler tool. Below are the details and instructions for setting up and using the project.
-
+# Crawler | Web Scraping | Browser Automation
+Below are the details and instructions for setting up and using the project.
 
 # Objective
 
@@ -36,7 +35,7 @@ tsconfig.json: TypeScript configuration file.
 1. Clone the project repository to your local machine. (if you are accessing this from github)
 2. Navigate to the project directory in your terminal.
 ```shell
-cd path/to/crawler
+cd /crawler
 
 ```
 
@@ -64,6 +63,7 @@ node dist/scrap.js
 
 ```
 
+
 This will execute the web scraping script and write the scraped data to posts.txt.
 
 ## Usage
@@ -72,3 +72,7 @@ __The posts.txt file stores the scraped data.__
 __Modify the scrap.tsx file to adjust the scraping logic as needed.__
 __Run the project to fetch data from specified websites and store it in posts.txt.__
 __Feel free to reach out if you need further assistance!__
+
+# Contributors:
+1. Jemal Muhammed       ID: UGR/8917/13
+2. Beza Tilahun         ID: UGR/4139/13
