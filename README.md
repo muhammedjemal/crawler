@@ -62,9 +62,7 @@ This will generate the compiled JavaScript file scrap.js in the dist/ folder.
 node dist/scrap.js
 
 ```
-# Contributors:
-1. Jemal Muhammed      ID: UGR/8917/13
-2. Beza Tilahun        ID: UGR/4139/13
+
 
 This will execute the web scraping script and write the scraped data to posts.txt.
 
@@ -74,3 +72,7 @@ __The posts.txt file stores the scraped data.__
 __Modify the scrap.tsx file to adjust the scraping logic as needed.__
 __Run the project to fetch data from specified websites and store it in posts.txt.__
 __Feel free to reach out if you need further assistance!__
+
+# Contributors:
+1. Jemal Muhammed      ID: UGR/8917/13
+2. Beza Tilahun        ID: UGR/4139/13
