@@ -74,5 +74,5 @@ __Run the project to fetch data from specified websites and store it in posts.tx
 __Feel free to reach out if you need further assistance!__
 
 # Contributors:
-1. Jemal Muhammed      ID: UGR/8917/13
-2. Beza Tilahun        ID: UGR/4139/13
+1. Jemal Muhammed       ID: UGR/8917/13
+2. Beza Tilahun         ID: UGR/4139/13
