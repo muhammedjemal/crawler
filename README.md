@@ -62,6 +62,9 @@ This will generate the compiled JavaScript file scrap.js in the dist/ folder.
 node dist/scrap.js
 
 ```
+# Contributors:
+1. Jemal Muhammed      ID: UGR/8917/13
+2. Beza Tilahun        ID: UGR/4139/13
 
 This will execute the web scraping script and write the scraped data to posts.txt.
 
