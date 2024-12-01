@@ -79,6 +79,3 @@ __Modify the scrap.tsx file to adjust the scraping logic as needed.__
 __Run the project to fetch data from specified websites and store it in posts.txt.__
 __Feel free to reach out if you need further assistance!__
 
-# Contributors:
-1. Jemal Muhammed       ID: UGR/8917/13
-2. Beza Tilahun         ID: UGR/4139/13
