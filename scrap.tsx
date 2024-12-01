@@ -153,10 +153,9 @@ async function main() {
     })
 
 const data = `
-        Contributors:
+        Contributor:
 
-Jemal Muhammed    
-Beza Tilahun     
+Jemal Muhammed   
 `;
 
     fs.appendFileSync('posts.txt', data);
