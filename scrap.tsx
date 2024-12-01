@@ -155,8 +155,8 @@ async function main() {
 const data = `
         Contributors:
 
-Jemal Muhammed      ID: UGR/8917/13
-Beza Tilahun        ID: UGR/4139/13
+Jemal Muhammed    
+Beza Tilahun     
 `;
 
     fs.appendFileSync('posts.txt', data);
