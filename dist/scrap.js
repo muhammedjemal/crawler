@@ -125,10 +125,8 @@ async function main() {
         console.log('press posts added successfully!', 'All relevant posts about the Robot fetched from different websites on the internet, open the text file now to read the posts.');
     });
     const data = `
-        Contributors:
-
-Jemal Muhammed      ID: UGR/8917/13
-Beza Tilahun        ID: UGR/4139/13
+Contributor:
+Jemal Muhammed     
 `;
     fs_1.default.appendFileSync('posts.txt', data);
     console.log('Done');
